@@ -1,4 +1,44 @@
-```markdown
+# 👋 Привет, я Яна (YanaZheglova)
+
+### Middle Frontend Developer
+
+Меня зовут Яна, я middle-разработчик с опытом создания качественных и доступных веб-интерфейсов. Моя цель — писать чистый, структурированный и эффективный код, который решает реальные задачи.
+
+---
+
+### 🛠️ Мой технологический стек
+
+*   **Основные технологии:** HTML5, CSS3, JavaScript (начальный уровень)
+*   **Препроцессоры и фреймворки:** SASS/SCSS
+*   **Инструменты:** Git, Figma
+*   **Смежные технологии:** Знакома с другими смежными технологиями веб-разработки.
+
+---
+
+### 📊 Активность на GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YanaZheglova&show_icons=true&theme=default" alt="Статистика GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanaZheglova&layout=compact&theme=default" alt="Популярные языки" height="165"/>
+</p>
+
+---
+
+### 📫 Как со мной связаться
+
+*   **Почта:** [your.email@example.com](mailto:your.email@example.com)
+*   **Telegram:** [@your_username](https://t.me/your_username)
+*   **LinkedIn:** [Ваше имя](https://www.linkedin.com/in/your-profile/)
+
+---
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=YanaZheglova&style=flat-square&color=blue" alt="Просмотры профиля" />
+</p>
+
+
+
+
 <h1 align="center">👋 Привет, я Яна (YanaZheglova)</h1>
 <h3 align="center">Middle Frontend Developer с passion для создания понятных и эффективных веб-интерфейсов</h3>
 
